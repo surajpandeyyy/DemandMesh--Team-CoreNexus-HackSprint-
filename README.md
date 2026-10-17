@@ -94,7 +94,6 @@ Potential components include:
 - **Database:** Storage for retail records, products, and historical data
 - **Deployment:** Hosted web application
 
-Update this section with the actual frameworks, libraries, APIs, and services used in the project.
 
 ## 🖥️ Live Application
 
@@ -116,40 +115,6 @@ Screenshots:-
 
  project's current user experience. Refer to the repository for the implementation and technical details.
 
-## ⚙️ Local Setup
-
-The exact setup commands depend on the source code and framework used by the project.
-
-### 1. Clone the repository
-
-```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
-cd <YOUR_REPOSITORY_NAME>
-```
-
-### 2. Install dependencies
-
-Use the package manager and installation command appropriate for the project.
-
-For example, for a Node.js project:
-
-```bash
-npm install
-```
-
-### 3. Configure environment variables
-
-If the application uses external APIs or private configuration, create a `.env` file using the variables documented in the project.
-
-Never commit API keys, passwords, tokens, or other secrets to GitHub.
-
-### 4. Run the application
-
-For a Node.js application that defines a development script:
-
-```bash
-npm run dev
-```
 
 Check the project's `package.json` and documentation for the correct command.
 
