@@ -107,12 +107,12 @@ Screenshots:-
 <img width="2854" height="1594" alt="image" src="https://github.com/user-attachments/assets/50ad1c63-da80-4aa6-938d-928b581312cd" />
 <img width="1134" height="452" alt="image" src="https://github.com/user-attachments/assets/016b35bc-93eb-4e21-aea2-a30333b77046" />
 <img width="2250" height="1460" alt="image" src="https://github.com/user-attachments/assets/b1aac0a0-9fa2-4089-b879-f478dc9ac8ba" />
-
-
-
 <img width="2864" height="1604" alt="image" src="https://github.com/user-attachments/assets/4cb722cd-e0f7-46e9-a7ea-0dfd27574026" />
 <img width="2868" height="1622" alt="image" src="https://github.com/user-attachments/assets/b7121d36-2c94-4d15-a1ba-d67bab43cf75" />
 <img width="2232" height="1508" alt="image" src="https://github.com/user-attachments/assets/bb092cc0-59d7-469f-8141-be82c601073c" />
+<img width="2862" height="1620" alt="image" src="https://github.com/user-attachments/assets/065f3bbf-40b1-4fff-8588-8f61ee7472fa" />
+
+
 
  project's current user experience. Refer to the repository for the implementation and technical details.
 
