@@ -104,6 +104,12 @@ Try the current web application:
 
 **[Launch DemandMesh](https://demandmesh-demand-intelligence-for-local-retail.ai.studio/)**
 
+Presentation:
+ [Solution-4 (4).pptx](https://github.com/user-attachments/files/33592850/Solution-4.4.pptx)
+
+
+
+
 Screenshots:-
 <img width="2852" height="1616" alt="image" src="https://github.com/user-attachments/assets/44b9ec7b-0458-4cb9-8247-d1d619972095" />
 <img width="2854" height="1594" alt="image" src="https://github.com/user-attachments/assets/50ad1c63-da80-4aa6-938d-928b581312cd" />
