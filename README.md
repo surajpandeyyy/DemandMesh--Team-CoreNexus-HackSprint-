@@ -103,16 +103,18 @@ Try the current web application:
 **[Launch DemandMesh](https://demandmesh-demand-intelligence-for-local-retail.ai.studio/)**
 
 Screenshots:-
+<img width="2852" height="1616" alt="image" src="https://github.com/user-attachments/assets/44b9ec7b-0458-4cb9-8247-d1d619972095" />
+<img width="2854" height="1594" alt="image" src="https://github.com/user-attachments/assets/50ad1c63-da80-4aa6-938d-928b581312cd" />
+<img width="1134" height="452" alt="image" src="https://github.com/user-attachments/assets/016b35bc-93eb-4e21-aea2-a30333b77046" />
+<img width="2250" height="1460" alt="image" src="https://github.com/user-attachments/assets/b1aac0a0-9fa2-4089-b879-f478dc9ac8ba" />
+
+
+
 <img width="2864" height="1604" alt="image" src="https://github.com/user-attachments/assets/4cb722cd-e0f7-46e9-a7ea-0dfd27574026" />
 <img width="2868" height="1622" alt="image" src="https://github.com/user-attachments/assets/b7121d36-2c94-4d15-a1ba-d67bab43cf75" />
 <img width="2232" height="1508" alt="image" src="https://github.com/user-attachments/assets/bb092cc0-59d7-469f-8141-be82c601073c" />
-<img width="2250" height="1460" alt="image" src="https://github.com/user-attachments/assets/b1aac0a0-9fa2-4089-b879-f478dc9ac8ba" />
-<img width="1134" height="452" alt="image" src="https://github.com/user-attachments/assets/016b35bc-93eb-4e21-aea2-a30333b77046" />
-<img width="2854" height="1594" alt="image" src="https://github.com/user-attachments/assets/50ad1c63-da80-4aa6-938d-928b581312cd" />
-<img width="2852" height="1616" alt="image" src="https://github.com/user-attachments/assets/44b9ec7b-0458-4cb9-8247-d1d619972095" />
 
-
-The live application demonstrates the project's current user experience. Refer to the repository for the implementation and technical details.
+ project's current user experience. Refer to the repository for the implementation and technical details.
 
 ## ⚙️ Local Setup
 
