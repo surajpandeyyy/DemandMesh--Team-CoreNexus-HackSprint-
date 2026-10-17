@@ -82,6 +82,9 @@ The proposed workflow is:
 
 The accuracy and usefulness of the results depend on the quality, coverage, and freshness of the underlying data.
 
+<img width="1644" height="1052" alt="image" src="https://github.com/user-attachments/assets/03891e2b-9999-432f-b3cd-51764a80367e" />
+
+
 ## 🛠️ Technology Stack
 
 The exact implementation should reflect the technologies used in the repository.
