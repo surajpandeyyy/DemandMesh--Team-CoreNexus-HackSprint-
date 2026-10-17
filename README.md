@@ -137,6 +137,14 @@ Potential areas for future development include:
 
 These are possible extensions, not claims that the features are already implemented.
 
+🛠️ Tech Stack
+Frontend: React 19, TypeScript, Vite, Tailwind CSS v4, Lucide React, Motion
+Visualizations: Leaflet 1.9 (OpenStreetMap), Recharts 3.10
+Audio / NLP: Web Speech API with fallback deterministic parser
+Testing: Node Native Test Runner (node --test), Playwright Chromium E2E
+State & Storage: React Context + LocalStorage persistence + Offline synchronization queue
+
+
 
 
 
